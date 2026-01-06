@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Blaise Chidera**
-- 👀 I’m interested in PHP, open-source scripts, Microsoft 365 exchange online, SharePoint Online, Office, OneDrive, Teams and PowerShell.
-- 🌱 I’m currently learning UI/UX design.
-- 💞️ I’m looking to collaborate on PowerShell scripts.
+- 👀 I’m interested in PHP, open-source scripts, Microsoft 365 - Exchange Online, SharePoint Online, Office, OneDrive, Teams, and PowerShell.
+- 🌱 I’m currently learning Interactive Media Design.
+- 💞️ I’m looking to collaborate on PowerShell scripts, MS Doc updates, HTML, and CSS scripts.
 - 📫 Connect or follow on LinkedIn: https://www.linkedin.com/in/chidera-blaise-nwosu/
 
 <!---
